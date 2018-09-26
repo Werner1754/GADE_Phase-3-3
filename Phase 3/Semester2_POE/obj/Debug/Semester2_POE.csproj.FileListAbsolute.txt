@@ -1,0 +1,20 @@
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.Form1.resources
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.Properties.Resources.resources
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.csproj.GenerateResource.Cache
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.csproj.CoreCompileInputs.cache
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.csprojResolveAssemblyReference.cache
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\bin\Debug\Semester2_POE.exe.config
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\bin\Debug\Semester2_POE.exe
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\bin\Debug\Semester2_POE.pdb
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.exe
+C:\Users\Werner\Desktop\Semester2_POE\Semester2_POE\obj\Debug\Semester2_POE.pdb
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\bin\Debug\Semester2_POE.exe.config
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\bin\Debug\Semester2_POE.exe
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\bin\Debug\Semester2_POE.pdb
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.csprojResolveAssemblyReference.cache
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.Form1.resources
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.Properties.Resources.resources
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.csproj.GenerateResource.Cache
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.csproj.CoreCompileInputs.cache
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.exe
+C:\Users\Werner\Desktop\GADE_POE!!!!\Phase 3\Semester2_POE\obj\Debug\Semester2_POE.pdb
